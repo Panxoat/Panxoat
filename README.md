@@ -10,9 +10,9 @@
 ## 자주 사용하면서 배우고 있는 기술은요!
 <p align="left">
   <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/-React-blue?logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/-Typescript-blue?logo=Typescript&logoColor=white"><br />
-  <img src="https://img.shields.io/badge/-Storybook-%23FF4785?logo=Storybook&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-blue?logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/-Typescript-blue?logo=Typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/-d3-orange?logo=d3.js&logoColor=white"><br />
 </p>
 
 <!--
