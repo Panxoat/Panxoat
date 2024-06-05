@@ -1,9 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Panxoat?pet-id=586057701740864431"
-    width="600"
-    height="250"
-  />
+<img
+  src="https://render.gitanimals.org/farms/Panxoat"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### Hi there 👋
