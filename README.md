@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Panxoat?pet-id=586057701740864431"
+    width="600"
+    height="250"
+  />
+</a>
+
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panxoat)](https://github.com/anuraghazra/github-readme-stats)
 
