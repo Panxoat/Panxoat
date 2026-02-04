@@ -6,16 +6,13 @@
 />
 </a>
 
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panxoat)](https://github.com/anuraghazra/github-readme-stats)
-
-## 제가 관심있는 기술은요!
+## Skills #1
 <p align="left">
   <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="60">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
 </p>
 
-## 자주 사용하면서 배우고 있는 기술은요!
+## Skills #2
 <p align="left">
   <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React-blue?logo=React&logoColor=white">
